@@ -6,3 +6,6 @@
 # 일정
 ![image](https://user-images.githubusercontent.com/60763110/151113804-878b1431-7d85-431a-8662-da55408d71c6.png)
 
+# 프로젝트용 샘플 깃허브
+https://github.com/hallymsw/CapstoneDesign_sample
+
