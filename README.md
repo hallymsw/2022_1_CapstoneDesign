@@ -4,7 +4,7 @@
 # 공지사항
 없음
 # 일정
-![image](https://user-images.githubusercontent.com/60763110/151113804-878b1431-7d85-431a-8662-da55408d71c6.png)
+![image](https://user-images.githubusercontent.com/60763110/156476695-6b9ba3cc-136e-4e9a-91f4-de1e39b8db33.png)
 
 # 프로젝트용 샘플 깃허브
 https://github.com/hallymsw/CapstoneDesign_sample
